@@ -1,0 +1,17 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "description": "Typescript course exemplos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Rodrigo Bulgarelli",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "lite-server": "^2.4.0"
+  }
+}
